@@ -254,3 +254,22 @@ header {
     font-size: 18px;
     color: white;
 }
+
+#expectations-table {
+    border: solid 1px black;
+}
+
+#expectations-table td {
+    border: solid 1px black;
+    min-height: 100px;
+    padding: 10px;
+}
+
+#expectations-table .title-exp {
+    font-weight: bold;
+    text-align: center;
+}
+
+#team-img {
+    background-image: url('team_img.png');
+}
