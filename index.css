@@ -30,7 +30,7 @@ header {
     font-weight: bold;
 }
 
-#intro, #deliv2intro {
+#intro, #deliv2intro, #deliv3intro {
     height: 100%;
 }
 
@@ -45,6 +45,15 @@ header {
 
 #deliv2intro {
     background: url("./women-talking.jpg");
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#deliv3intro {
+    background: url("./background3.jpg");
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
